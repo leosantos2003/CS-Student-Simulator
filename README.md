@@ -7,7 +7,7 @@
 
 ## About
 
-**IMPORTANT**: This game was made during a 24-hour GameJam. Its theme was deliberately comical, intended to entertain the participating students. Therefore, please do not take its theme too seriously.
+**IMPORTANT**: This game was made during a 24-hour GameJam. Its theme was deliberately comical, intended to entertain the participating students. Therefore, please, do not take its theme too seriously.
 
 In "Computer Science Student Simulator", you control a character who must survive in a hostile environment, not by fighting monsters, but by fighting their own "vices". The goal is to keep their status bars - Stamina and Strength - full while avoiding capture by the relentless Inspector General.
 
